@@ -45,6 +45,4 @@ Your resume will be live at: `https://YOUR-USERNAME.github.io/resume`
 - The "Download as PDF" button uses your browser's print function
 
 ## Contact
-- Email: srinivas.naidu@capitalone.com
 - LinkedIn: [Srinivas Naidu](https://www.linkedin.com/in/shrinaidu/)
-- Phone: (469) 756-9443
